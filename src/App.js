@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This is react application 1 . build to be served by apache2 web server
+          This is react application 2 . build to be served by apache2 web server
         </p>
         <a
           className="App-link"
